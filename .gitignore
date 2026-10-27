@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+mealwise_saved.json
+mealwise_plan.txt
+.env
+.env.*
